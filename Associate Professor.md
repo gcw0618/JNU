@@ -18,6 +18,26 @@
 
 
 <details>
+<summary>吴秦</summary>
+  
+```java
+授课：人工智能前沿选讲Advances in Artificial Intelligence
+考试：
+```
+</details>
+
+
+<details>
+<summary></summary>
+  
+```java
+授课：
+考试：
+```
+</details>
+
+
+<details>
 <summary></summary>
   
 ```java
