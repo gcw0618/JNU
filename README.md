@@ -23,9 +23,9 @@
 |[神经网络与深度学习][53] |吴秦 |--- |
 |[生物信息学][54] |邓赵红 |--- |
 |[数字媒体技术前沿][55] |--- |--- |
-|[][] |--- |--- |
-|[][] |--- |--- |
-|[][] |--- |--- |
+|[数字图像分析及应用][56] |陈丽芳 |--- |
+|[数字图像分析及应用][57] |宋晓宁 |--- |
+|[组合数学][58] |陈秀宏 |--- |
 |[][] |--- |--- |
 |[][] |--- |--- |
 |[][] |--- |--- |
@@ -46,4 +46,6 @@
 [53]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-1
 [54]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6
 [55]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF
-
+[56]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E5%8F%8A%E5%BA%94%E7%94%A8
+[57]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E5%8F%8A%E5%BA%94%E7%94%A8-1
+[58]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6
