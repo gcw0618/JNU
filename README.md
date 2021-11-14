@@ -38,8 +38,8 @@
 |[][] |--- |--- |
 |[][] |--- |--- |
 
-[A]:https://github.com/gcw0618/JNU/blob/main/Required_Courses/required_course.md
-[B]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md
+[A]:https://github.com/gcw0618/JNU/blob/main/README.md#%E5%AD%A6%E4%BD%8D%E8%AF%BE
+[B]:https://github.com/gcw0618/JNU#%E9%80%89%E4%BF%AE%E8%AF%BE
 [1]:https://github.com/gcw0618/JNU/blob/main/Required_Courses/required_course.md#%E8%AF%BE%E7%A8%8Badvances-in-artificial-intelligence%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%89%8D%E6%B2%BF%E9%80%89%E8%AE%B2
 [2]:https://github.com/gcw0618/JNU/blob/main/Required_Courses/required_course.md#%E8%AF%BE%E7%A8%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E
 [3]:https://github.com/gcw0618/JNU/blob/main/Required_Courses/required_course.md#%E8%AF%BE%E7%A8%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%89%8D%E6%B2%BF
