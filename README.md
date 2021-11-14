@@ -44,9 +44,9 @@
 |[][] |--- |--- |
 |[][] |--- |--- |
 
-### 教授：
+### 教授&&副教授
 
-|教授 | |
+|教授 |副教授 |
 |--- |--- |
 |[柴志雷][CZL] |--- |
 |[陈秀宏][CXH] |--- |
@@ -62,18 +62,6 @@
 |--- |--- |
 |--- |--- |
 
-### 副教授：
-
-|副教授 | |
-|--- |--- |
-|--- |--- |
-|--- |--- |
-|--- |--- |
-|--- |--- |
-|--- |--- |
-|--- |--- |
-|--- |--- |
-|--- |--- |
 
 [A]:https://github.com/gcw0618/JNU/blob/main/README.md#%E5%AD%A6%E4%BD%8D%E8%AF%BE
 [B]:https://github.com/gcw0618/JNU#%E9%80%89%E4%BF%AE%E8%AF%BE
@@ -94,7 +82,7 @@
 [57]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E5%8F%8A%E5%BA%94%E7%94%A8-1
 [58]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6
 [JSXX]:https://github.com/gcw0618/JNU#%E6%95%99%E6%8E%88
-[FJSXX]:https://github.com/gcw0618/JNU/blob/main/README.md#%E5%89%AF%E6%95%99%E6%8E%88
+[FJSXX]:https://github.com/gcw0618/JNU#%E6%95%99%E6%8E%88
 [CZL]:https://github.com/gcw0618/JNU/blob/main/Supervisor.md#%E6%9F%B4%E5%BF%97%E9%9B%B7
 [CXH]:https://github.com/gcw0618/JNU/blob/main/Supervisor.md#%E9%99%88%E7%A7%80%E5%AE%8F
 [DZH]:https://github.com/gcw0618/JNU/blob/main/Supervisor.md#%E9%82%93%E8%B5%B5%E7%BA%A2
