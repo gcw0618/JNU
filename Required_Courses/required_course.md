@@ -32,9 +32,4 @@
 #### 考核方式：
 
 
-
-## 课程：`  `
-### 授课教师：
-#### 考核方式：
-
 [RJTXFX]:https://github.com/gcw0618/JNU/blob/main/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/2021%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%20.pdf
