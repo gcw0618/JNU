@@ -29,9 +29,10 @@
 + ## 课程：` 算法设计与分析 `
 ### 授课教师：孙俊
 #### 上课：鸽学生、迟到早退都是日常操作。不点名
-#### 考核方式：
+#### 考核方式：闭卷考。据孙俊说2022届改为大作业。[复习资料][SFSJFXZL]
 
 
 [RJTXFX]:https://github.com/gcw0618/JNU/blob/main/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/2021%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%20.pdf
 [JSJTXXFX]:https://github.com/gcw0618/JNU/blob/main/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E4%B8%8E%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E/%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf
 [JZFXFX]:https://github.com/gcw0618/JNU/tree/main/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E7%9F%A9%E9%98%B5%E5%88%86%E6%9E%90
+[SFSJFXZL]:https://github.com/gcw0618/JNU/tree/main/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90
