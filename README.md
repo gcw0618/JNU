@@ -51,7 +51,7 @@
 
 |教授 |副教授 |
 |--- |--- |
-|[柴志雷][CZL] |--- |
+|[柴志雷][CZL] |陈丽芳[CLF] |
 |[陈秀宏][CXH] |--- |
 |[邓赵红][DZH] |--- |
 |[刘渊][LY] |--- |
@@ -93,3 +93,4 @@
 [SJ]:https://github.com/gcw0618/JNU/blob/main/Supervisor.md#%E5%AD%99%E4%BF%8A
 [WST]:https://github.com/gcw0618/JNU/blob/main/Supervisor.md#%E7%8E%8B%E5%A3%AB%E5%90%8C
 [XZP]:https://github.com/gcw0618/JNU/blob/main/Supervisor.md#%E8%B0%A2%E6%8C%AF%E5%B9%B3
+[CLF]:https://github.com/gcw0618/JNU/blob/main/Supervisor.md#%E9%99%88%E4%B8%BD%E8%8A%B3
