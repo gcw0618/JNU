@@ -40,7 +40,7 @@
 |[数字图像分析及应用][56] |陈丽芳 |--- |
 |[数字图像分析及应用][57] |宋晓宁 |--- |
 |[组合数学][58] |陈秀宏 |3 |
-|[最优化][] |--- |--- |
+|[最优化][ZYH] |孙俊 |--- |
 |[][] |--- |--- |
 |[][] |--- |--- |
 |[][] |--- |--- |
@@ -84,6 +84,7 @@
 [56]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E5%8F%8A%E5%BA%94%E7%94%A8
 [57]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E5%8F%8A%E5%BA%94%E7%94%A8-1
 [58]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6
+[ZYH]:https://github.com/gcw0618/JNU/blob/main/Optional_Courses/optional_course.md#%E8%AF%BE%E7%A8%8B%E6%9C%80%E4%BC%98%E5%8C%96
 [JSXX]:https://github.com/gcw0618/JNU#%E6%95%99%E6%8E%88%E5%89%AF%E6%95%99%E6%8E%88
 [FJSXX]:https://github.com/gcw0618/JNU#%E6%95%99%E6%8E%88%E5%89%AF%E6%95%99%E6%8E%88
 [CZL]:https://github.com/gcw0618/JNU/blob/main/Supervisor.md#%E6%9F%B4%E5%BF%97%E9%9B%B7
